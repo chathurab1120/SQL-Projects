@@ -40,17 +40,6 @@ from DataScience.dbo.cb_results1lb11;
 select * from DataScience.dbo.cb_results1lb12;--2625
 
 
-select * from DataScience.dbo.cb_results1lb12
-where key2 = '88311CC021'
-
-
-select * from DataScience.dbo.cb_results1lb13
-where key2 = '88311CC021'
-
-select * from DataScience.dbo.cb_results1lb12
-where key2 = '80069CC020'
-select * from DataScience.dbo.cb_results1lb13
-where key2 = '80069CC020'
 ------
 
 ;with proc_cnt1 as (
